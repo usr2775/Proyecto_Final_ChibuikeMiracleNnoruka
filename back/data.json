@@ -1,0 +1,36 @@
+{
+  "tienda": [
+    {
+      "id": 1,
+      "title": "Camisa de algodón",
+      "price": 29.99,
+      "description": "Camisa de manga larga hecha de algodón suave y transpirable.",
+      "category": "Ropa",
+      "imagen": "https://ejemplo.com/imagen1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Pantalones vaqueros ajustados",
+      "price": 39.99,
+      "description": "Pantalones vaqueros de corte ajustado y tela resistente.",
+      "category": "Ropa",
+      "imagen": "https://ejemplo.com/imagen2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Zapatillas deportivas",
+      "price": 49.99,
+      "description": "Zapatillas deportivas con suela acolchada y transpirable.",
+      "category": "Calzado",
+      "imagen": "https://ejemplo.com/imagen3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Teléfono inteligente",
+      "price": 499.99,
+      "description": "Teléfono inteligente con pantalla de alta resolución y cámara de calidad.",
+      "category": "Electrónica",
+      "imagen": "https://ejemplo.com/imagen4.jpg"
+    }
+  ]
+}

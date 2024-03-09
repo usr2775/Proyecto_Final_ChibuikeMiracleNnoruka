@@ -1,0 +1,19 @@
+body {
+    background-color: #DDE6ED; /* Color 4 */
+  }
+  .navbar {
+    background-color: #27374D; /* Color 1 */
+  }
+  .jumbotron {
+    background-color: #526D82; /* Color 2 */
+    color: #DDE6ED; /* Color 4 */
+  }
+  .card {
+    background-color: #b8c9d3; /* Color 3 */
+    border: 6px solid ; /* Cambiar el color del borde */
+  }
+  
+.btn {
+    background-color: #27374D; 
+  
+}
